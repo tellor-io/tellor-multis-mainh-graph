@@ -1,1 +1,1 @@
-# tellor-multis-hosted-graph-mainnet
+# tellor-multis-mainh-graph
